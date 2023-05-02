@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c8d1200c43d44e80884d477eb41c09d, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  LevelFurnitures:
+  - {fileID: 306179408622180725, guid: 0b1627d50f88d47868724dafdd21aa4e, type: 3}
+  - {fileID: 4512455585171831971, guid: 61200f7cd7b854351b7df38af4235d41, type: 3}
+  - {fileID: 825901866861098787, guid: a6e8403ba2d7548939f0c8f358b9e684, type: 3}
+  - {fileID: 1219207749244020688, guid: 2d9b034124c82482ca689ef59187cce3, type: 3}
+  - {fileID: 2225280400932890616, guid: 09e664e25c16243c883ec40a3be19c24, type: 3}
+  - {fileID: 4497521027207217274, guid: 67534bd5142894523bb7ac175f346bde, type: 3}
+  - {fileID: 5985346340622784729, guid: 7ce3ccbba90a0439b95b6dd8cbfeeb86, type: 3}
+  - {fileID: 8672371875355471231, guid: 2772dc8b15f394d37b3ab9375cef02a1, type: 3}
+  - {fileID: 529701940700426389, guid: f1dcec0ebc84a404ea632bbd4780e5e5, type: 3}
+  - {fileID: 4369186693643963698, guid: 1a5e7bb1fc0ba4e1c87e39a6f9e0b909, type: 3}
+  - {fileID: 5135501472698504540, guid: 499f34e7889434d22a8d4d8aa71902dd, type: 3}
+  - {fileID: 8317559670514401699, guid: e769ce16fed31433f80476dde48971c8, type: 3}
+  - {fileID: 2893576108481503742, guid: d64ef61c822574514bdf62cfdc5c50be, type: 3}
+  - {fileID: 4427307865589426888, guid: 3bcd83eec08004c9aa26b0f7e27cf7c7, type: 3}
+  - {fileID: 4045643835256535468, guid: c8f8517b8c93447be9402b9a61c4476f, type: 3}
+  - {fileID: 920080254724779549, guid: 5e2ab5778057241229f1e9254056c939, type: 3}
+  - {fileID: 360488666461412276, guid: 4a049a1b9a3b544f2b9d634445aa1e33, type: 3}
+  - {fileID: 1805595790800488397, guid: 383aa4e54ba2946f7b6f8541f8855e54, type: 3}
+  - {fileID: 7924241918440769433, guid: f29f48ca9d74d4495bc39a4874b1a861, type: 3}
+  - {fileID: 4660465180571300952, guid: 6f283c706312c42419af6e259fea38d1, type: 3}
+  - {fileID: 5199676476631772972, guid: 6f5e243af5fa24a48a33bd7e91765b34, type: 3}
+  - {fileID: 1136820223923277002, guid: 6c0f6f997f0bd41fe8ab056ea92c009f, type: 3}
+  ExtraLevelFurnitures: []
+  InitialDialogue:
+    name: Mariana Ferreira
+    sentences:
+    - "Ol\xE1, obrigado por vir at\xE9 aqui. Estou precisando muito de ajuda para
+      instalar os m\xF3veis e decorar o meu banheiro."
+    - "Os m\xF3veis j\xE1 est\xE3o aqui, mas n\xE3o tenho muita experi\xEAncia em
+      instala\xE7\xE3o. Ser\xE1 que voc\xEA pode me ajudar?"
+    - "Ah, que \xF3timo! Voc\xEA parece saber exatamente o que est\xE1 fazendo. Eu
+      estou aliviada em ter algu\xE9m t\xE3o habilidoso trabalhando aqui. Pode decorar
+      tudo do jeito que quiser."
+    - "Voc\xEA acha que conseguir\xE1 instalar tudo em um tempo razo\xE1vel? N\xE3o
+      quero gastar o dia todo aqui."
+    - "Sim, eu concordo. Eu prefiro pagar um pouco mais para ter certeza de que tudo
+      ficar\xE1 perfeito."
+    - "Se o servi\xE7o ficar bom, n\xE3o hesitarei em te recomendar para meus amigos
+      e familiares que precisem de ajuda com m\xF3veis e instala\xE7\xF5es."
+    ActivateBackground: 0
+  FinishDialogue:
+    name: 
+    sentences: []
+    ActivateBackground: 0
